@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.cont{
+    margin-left: 200px;
+}
+button{
+    padding: 20px;
+}
